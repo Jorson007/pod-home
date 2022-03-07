@@ -1,0 +1,6 @@
+framework module kHome {
+  umbrella header "kHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

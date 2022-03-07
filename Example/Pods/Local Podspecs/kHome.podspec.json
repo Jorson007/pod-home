@@ -1,0 +1,22 @@
+{
+  "name": "kHome",
+  "version": "0.1.0",
+  "summary": "A short description of kHome.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kwni/kHome",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kwni": "2219479711@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/kwni/kHome.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "kHome/Classes/**/*"
+}

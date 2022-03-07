@@ -1,0 +1,6 @@
+use_frameworks!
+target 'kHome_Tests' do
+  pod 'kHome', :path => '../'
+  
+  
+end

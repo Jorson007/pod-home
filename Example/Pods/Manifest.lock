@@ -1,0 +1,16 @@
+PODS:
+  - kHome (0.1.0)
+
+DEPENDENCIES:
+  - kHome (from `../`)
+
+EXTERNAL SOURCES:
+  kHome:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kHome: 237161f29032e3ad3cb78b0d7f62254dc6863f18
+
+PODFILE CHECKSUM: d4cca2a845f90c42ce6e1080b47943692c5e3826
+
+COCOAPODS: 1.11.1
